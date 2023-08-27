@@ -1,9 +1,15 @@
 ---
 ---
 
-# CFPA Music Technology 2023-2024
+# CFPA Music Technology Handbook 2023-2024
 
-## About Me
+This handbook contains everything you need to know about the CFPA Music Tech program and its courses.
+
+This is a live website and a work-in-progress that will evolve as the year progresses and we have more details to share.
+
+If you have any questions or suggestions about any of the content in this handbook, please email me at <levysm@pwcs.edu>.
+
+## About Me, Mrs. Levy
 
 - I'm excited to be the new Music Tech instructor, building on the foundation that Mr. Mills started.
 - I have a wide variety of industry and teaching experience that I can draw on to help the students on their music journey.
